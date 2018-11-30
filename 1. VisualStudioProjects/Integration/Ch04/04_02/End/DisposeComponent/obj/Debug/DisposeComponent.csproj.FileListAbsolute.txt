@@ -1,0 +1,11 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_02\End\DisposeComponent\bin\Debug\DisposeComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_02\End\DisposeComponent\bin\Debug\DisposeComponent.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\bin\Debug\DisposeComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\bin\Debug\DisposeComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_02\End\DisposeComponent\obj\Debug\DisposeComponent.pdb

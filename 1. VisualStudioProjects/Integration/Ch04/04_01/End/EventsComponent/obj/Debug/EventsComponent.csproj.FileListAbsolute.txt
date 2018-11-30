@@ -1,0 +1,24 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\EventsComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\EventsComponent.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.Model.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.Model.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\DotNetZip.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\DotNetZip.xml
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\EventsComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\EventsComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.Model.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\DotNetZip.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\Arebis.Pdf.Model.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\bin\Debug\DotNetZip.xml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch04\04_01\End\EventsComponent\obj\Debug\EventsComponent.pdb

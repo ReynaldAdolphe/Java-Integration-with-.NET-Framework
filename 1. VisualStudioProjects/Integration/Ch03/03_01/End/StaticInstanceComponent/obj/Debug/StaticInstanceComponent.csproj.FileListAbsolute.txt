@@ -1,0 +1,11 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch03\03_01\End\StaticInstanceComponent\bin\Debug\StaticInstanceComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch03\03_01\End\StaticInstanceComponent\bin\Debug\StaticInstanceComponent.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\bin\Debug\StaticInstanceComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\bin\Debug\StaticInstanceComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch03\03_01\End\StaticInstanceComponent\obj\Debug\StaticInstanceComponent.pdb

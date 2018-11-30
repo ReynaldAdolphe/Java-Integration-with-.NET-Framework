@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\4Dev\\Ex_Files_Java_Int_NET_Framework\\Ex_Files_Java_Int_NET_Framework\\Exercise Files\\1. VisualStudioProjects\\Integration\\Ch04\\04_02\\End\\DisposeComponent\\DisposeComponent.csproj",
+  "TargetFramework": "v4.5.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

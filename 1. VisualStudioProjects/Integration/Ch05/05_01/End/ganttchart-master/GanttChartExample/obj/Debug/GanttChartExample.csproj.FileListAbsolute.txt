@@ -1,0 +1,24 @@
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.dll
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.pdb
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.ExampleSimple.resources
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.ExampleFull.resources
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.Properties.Resources.resources
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csproj.GenerateResource.Cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.exe
+C:\Users\Reynald Adolphe\Documents\Visual Studio 2017\Projects\DotnetJavaIntegration\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChartExample.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\bin\Debug\GanttChart.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.ExampleFull.resources
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.ExampleSimple.resources
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\Braincase.GanttChart.Properties.Resources.resources
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csproj.GenerateResource.Cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\Ch05\05_01\End\ganttchart-master\GanttChartExample\obj\Debug\GanttChartExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\bin\Debug\CarComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\bin\Debug\CarComponent.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\obj\Debug\CarComponent.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\obj\Debug\CarComponent.csproj.CoreCompileInputs.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\obj\Debug\CarComponent.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Integration\CarComponent\obj\Debug\CarComponent.pdb
